@@ -303,7 +303,7 @@ asyncio.run(example_streaming_tool_interruption())
 # %%
 # Automatic Tool Management
 # -------------------------------------
-# .. image:: https://img.alicdn.com/imgextra/i3/O1CN013cvRpO27MfesMsTeh_!!6000000007783-2-tps-840-521.png
+# .. image:: https://img.alicdn.com/imgextra/i3/O1CN013cvRpO27MfesMsThe_!!6000000007783-2-tps-840-521.png
 #     :width: 100%
 #     :align: center
 #     :alt: Automatic Tool Management
